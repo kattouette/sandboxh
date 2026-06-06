@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-Regular.ttf') format('truetype'),
+         url('Urbanist-Regular.ttf') format('truetype');
+    font-weight: auto;
+    font-style: auto;
+}
+body {
+    font-family: 'Urbanist', sans-serif;
+    background: linear-gradient(to bottom, #F0F8FE 0%, #FFFFFF00 100%);
+    width: 100%;
+}
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Urbanist', sans-serif;
+    color: #5EB9F0;
+}
+.title {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    text-align: center;
+}
+.block2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.block2__art {
+    text-align: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 30%
+}
+.block2__img {
+    width: 300px;
+    height: 200px;
+}
+.block2__link {
+    text-decoration: none;
+    text-align: center;
+    color: #5EB9F0;
+}
+@media (max-width: 1024px) {
+    .block2 {
+        flex-direction: column;
+    }
+}
