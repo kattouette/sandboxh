@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03bfb666-0ad5-485b-97f3-b5901188856f" name="Changes" comment="">
+    <list default="true" id="03bfb666-0ad5-485b-97f3-b5901188856f" name="Changes" comment="New project started from block 2">
       <change afterPath="$PROJECT_DIR$/../../pink code/sandbox/package.json" afterPathEscaped="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pink code/sandbox/.idea/workspace.xml" beforePathEscaped="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pink code/sandbox/.idea/workspace.xml" afterPathEscaped="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pink code/sandbox/Urbanist-Regular.ttf" beforePathEscaped="$PROJECT_DIR$/Urbanist-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pink code/sandbox/block2.1.png" beforePathEscaped="$PROJECT_DIR$/block2.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pink code/sandbox/block2.2.png" beforePathEscaped="$PROJECT_DIR$/block2.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pink code/sandbox/block2.3.png" beforePathEscaped="$PROJECT_DIR$/block2.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pink code/sandbox/sandbox.css" beforePathEscaped="$PROJECT_DIR$/sandbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pink code/sandbox/sandboxh.html" beforePathEscaped="$PROJECT_DIR$/sandboxh.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2" />
+    <option name="cachedIndexableFilesCount" value="11" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -27,14 +34,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../pink code/sandbox" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kattouette&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kattouette/sandbox.git&quot;,
+    &quot;accountId&quot;: &quot;60d48b78-cc85-4953-9357-c2669a8566eb&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Eh93g5KqBnhkTa70ZqVYIsgguL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,6 +79,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -78,11 +98,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780619736120</updated>
-      <workItem from="1780619737140" duration="9210000" />
+      <workItem from="1780619737140" duration="10357000" />
+      <workItem from="1780767087436" duration="9395000" />
     </task>
+    <task id="LOCAL-00001" summary="New project started from block 2">
+      <option name="closed" value="true" />
+      <created>1780706149311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780706149311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New project started from block 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="New project started from block 2" />
   </component>
 </project>
